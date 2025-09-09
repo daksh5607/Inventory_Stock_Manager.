@@ -1,0 +1,1 @@
+# Inventory_Stock_Manager.
